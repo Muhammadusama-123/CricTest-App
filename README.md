@@ -1,4 +1,4 @@
-# quiz_app_practice
+# This app will simply tell you which country's cricket team you are a fan of.
 
 A new Flutter project.
 
